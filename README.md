@@ -82,6 +82,8 @@ To apply your changes to the plugin, update the contents of the `wp-content\plug
 
 Make sure tests are passing!
 
+[Read more in `CONTRIBUTING.md`](./CONTRIBUTING.md)
+
 
 ## How to responsibly disclose a security vulnerability
 
