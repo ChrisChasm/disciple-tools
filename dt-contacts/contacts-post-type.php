@@ -649,7 +649,7 @@ class Disciple_Tools_Contact_Post_Type
             'name'        => __( 'Requires Update', 'disciple_tools' ),
             'description' => '',
             'type'        => 'key_select',
-            'default'     => [ 'no' => __( 'No', 'disciple_tools' ), 'yes' => __( 'Yes', 'disciple_tools' ) ],
+            'default'     => [ 'no' => __( 'Now', 'disciple_tools' ), 'yes' => __( 'Yes', 'disciple_tools' ) ],
             'section'     => 'status',
         ];
 
